@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @altaccount5433012- 👀 I’m interested in getting skills
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+altaccount5433012/altaccount5433012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
